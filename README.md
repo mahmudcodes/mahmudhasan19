@@ -3,13 +3,26 @@
 <!--
 **next-mahmud/next-mahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
+
+#### Learn & Work:
 
 - 🔭 I’m currently working on ... Laravel
 - 🌱 I’m currently learning ... JavaScript
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+#### Used Languages:
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=next-mahmud&layout=compact" alt="next-mahmud Github Used Languages"/></p>
+
+#### GitHub Stats:
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=next-mahmud&show_icons=true" alt="next-mahmud Github Stats" /></p>
