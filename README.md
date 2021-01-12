@@ -29,3 +29,5 @@
 #### GitHub Stats:
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=next-mahmud&show_icons=true" alt="next-mahmud Github Stats" /></p>
+
+![](https://komarev.com/ghpvc/?username=next-mahmud)
