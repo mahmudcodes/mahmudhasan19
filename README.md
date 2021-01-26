@@ -24,10 +24,10 @@
 
 #### Used Languages:
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=next-mahmud&layout=compact" alt="next-mahmud Github Used Languages"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudhasan19&layout=compact" alt="Mahmud Hasan Github Used Languages"/></p>
 
 #### GitHub Stats:
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=next-mahmud&show_icons=true" alt="next-mahmud Github Stats" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mahmudhasan19&show_icons=true" alt="Mahmud Hasan Github Stats" /></p>
 
-![](https://komarev.com/ghpvc/?username=next-mahmud)
+![](https://komarev.com/ghpvc/?username=mahmudhasan19)
